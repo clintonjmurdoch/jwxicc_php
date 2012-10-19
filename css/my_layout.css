@@ -1,0 +1,36 @@
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS framework
+ * (en) central stylesheet
+ * (de) zentrales Stylesheet
+ *
+ * @creator       YAML Builder V1.2.1 (http://builder.yaml.de)
+ * @file          my_layout.css
+ * @-yaml-minver  3.3
+ *
+ */
+
+/* import core styles | Basis-Stylesheets einbinden */
+@import url(../yaml/core/base.css);
+
+/* import screen layout | Screen-Layout einbinden */
+@import url(../yaml/navigation/nav_shinybuttons.css);
+@import url(screen/basemod.css);
+@import url(screen/content.css);
+
+/* import print layout | Druck-Layout einbinden */
+@import url(../yaml/print/print_draft.css);
+
+/* import forms */
+@import url(../yaml/screen/forms.css);
+
+/* Customer CSS */
+
+#leftdiv {width:auto; margin-right:310px; background:#f8f8f8;}
+#rightdiv {width:300px; float:right;}
+
+form#loginform {width:200px}
+div.info { background:#f8f8f8; color:#666; padding:10px; margin-left:auto; margin-right:auto; margin-bottom:0.5em; font-size:9pt; width:650px }
+p.player {width:650px; font-family: verdana; color: #000000}
+p.note {width:650px; margin-left:auto; margin-right:auto}
+h1 {width:650px; margin-left:auto; margin-right: auto}
+#formheading {width:2em; margin-left:5px; background-color:#fafafa; border-style:none; text-align:center}

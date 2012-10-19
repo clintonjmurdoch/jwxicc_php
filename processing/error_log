@@ -1,0 +1,671 @@
+[12-Nov-2010 20:14:01] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 20:14:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxicc'@'localhost' (using password: YES) in /home/jwxiccco/public_html/jwxicc_website/connect.php on line 2
+[12-Nov-2010 20:14:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jwxiccco/public_html/jwxicc_website/connect.php on line 3
+[12-Nov-2010 20:14:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/jwxicc_website/processing/loggingin.php on line 4
+[12-Nov-2010 20:14:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/jwxicc_website/processing/loggingin.php on line 4
+[12-Nov-2010 20:14:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/jwxicc_website/processing/loggingin.php on line 5
+[12-Nov-2010 21:43:13] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:16] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:20] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:31] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:38] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:44] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:46] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:48] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:50] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:53] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:54] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:56] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:57] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:43:59] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:44:00] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:44:02] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:56:53] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 21:57:07] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:00:03] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:01:37] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:47:08] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:47:12] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:47:15] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:47:47] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:48:22] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:51:36] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:51:51] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:51:54] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[12-Nov-2010 22:52:15] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 21:59:40] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 21:59:43] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:01] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:03] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:05] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:05] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:06] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:07] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[13-Nov-2010 22:00:08] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[03-Dec-2010 21:03:13] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[03-Dec-2010 23:47:28] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:18:34] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:43:24] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:43:33] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:44:11] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:44:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:44:26] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:44:50] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:44:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:44:53] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:44:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:45:00] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:45:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:46:12] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:46:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:46:14] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:46:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:46:17] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:46:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:46:19] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:46:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:46:21] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:46:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:47:09] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:47:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:47:52] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:47:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:47:54] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:47:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:47:58] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:47:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:48:03] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:48:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:49:02] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:49:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:49:32] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:49:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:49:39] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:49:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:51:44] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:51:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:51:47] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:51:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:56:47] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:56:57] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:57:05] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:57:51] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:57:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:58:30] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:58:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/returngrounds.php on line 5
+[04-Dec-2010 20:59:34] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 20:59:40] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:00:23] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:00:36] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:00:57] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:02:27] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:02:43] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:02:49] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:02:53] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:03:51] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:04:35] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:05:25] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:06:35] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:08:17] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:08:21] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:09:16] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:09:24] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:09:30] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:10:18] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:12:41] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:12:49] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:15:40] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:15:48] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:18:44] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:18:51] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:19:21] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:19:38] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:19:42] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:23:34] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:23:35] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:23:50] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:24:05] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:29:05] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:31:11] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:34:45] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:35:07] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:35:26] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:35:37] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:35:55] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:36:03] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:36:28] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:36:46] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:38:37] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:38:59] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:39:26] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:41:09] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:41:17] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:41:35] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:42:10] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:42:27] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:42:30] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:42:54] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:42:57] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:43:09] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[04-Dec-2010 21:43:20] PHP Warning:  Module 'pspell' already loaded in Unknown on line 0
+[24-Jan-2011 10:27:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingteamground.php on line 8
+[24-Jan-2011 10:27:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingteamground.php on line 11
+[28-Jan-2011 18:13:38] PHP Warning:  Invalid argument supplied for foreach() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 3
+[28-Jan-2011 18:14:11] PHP Warning:  Invalid argument supplied for foreach() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 3
+[28-Jan-2011 18:14:33] PHP Warning:  Invalid argument supplied for foreach() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 3
+[28-Jan-2011 18:15:12] PHP Notice:  Undefined index:  runs[101] in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 3
+[28-Jan-2011 18:15:54] PHP Notice:  Undefined index:  runs[20] in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 3
+[28-Jan-2011 18:17:08] PHP Notice:  Undefined index:  runs20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 4
+[28-Jan-2011 18:21:22] PHP Notice:  Undefined index:  runs20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 4
+[28-Jan-2011 18:22:59] PHP Notice:  unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 12 of 17 bytes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 4
+[28-Jan-2011 18:43:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 11
+[28-Jan-2011 18:43:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 11
+[28-Jan-2011 18:43:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 12
+[28-Jan-2011 18:43:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 12
+[28-Jan-2011 18:43:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 14
+[28-Jan-2011 18:43:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:43:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 15
+[28-Jan-2011 18:43:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:44:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 18:44:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 18:44:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 18:44:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:02] PHP Notice:  Undefined index:  runs32535 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 18
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:52:35] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:53:06] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 19
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 18:59:47] PHP Notice:  Undefined index:  runs99 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 20
+[28-Jan-2011 19:10:01] PHP Notice:  Undefined index:  runs3738 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 12
+[28-Jan-2011 19:10:55] PHP Notice:  Undefined index:  runs3738 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 12
+[28-Jan-2011 19:11:28] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_VARIABLE or '$' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 13
+[28-Jan-2011 19:11:43] PHP Notice:  Undefined index:  runs3738 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 14
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score104 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score103 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score102 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score106 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score108 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score110 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score107 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score112 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score113 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score115 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score101 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score44 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score47 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score46 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score51 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score53 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score54 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 19:52:45] PHP Notice:  Undefined index:  score84 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score104 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score103 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score102 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score106 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score108 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score110 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score107 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score112 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score113 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score115 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score101 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score44 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score47 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score46 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score51 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score53 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score54 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:01:46] PHP Notice:  Undefined index:  score84 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss44 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss47 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss46 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss51 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss53 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss54 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:03:23] PHP Notice:  Undefined index:  runss84 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:11:51] PHP Parse error:  syntax error, unexpected ';' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  fours in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 20:21:27] PHP Notice:  Undefined index:  sixes in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 22
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 21:59:27] PHP Notice:  Undefined variable: score in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 24
+[28-Jan-2011 22:12:43] PHP Notice:  Undefined variable: batpos in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 22:13:36] PHP Notice:  Undefined variable: batpos in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 22:15:27] PHP Notice:  Undefined variable: batpos in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 17
+[28-Jan-2011 22:23:43] PHP Parse error:  syntax error, unexpected $end in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[28-Jan-2011 22:23:47] PHP Parse error:  syntax error, unexpected $end in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[28-Jan-2011 23:16:03] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 97
+[28-Jan-2011 23:17:14] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 97
+[14-Feb-2011 17:10:06] PHP Warning:  include(connect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 3
+[14-Feb-2011 17:10:07] PHP Warning:  include(connect.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 3
+[14-Feb-2011 17:10:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 3
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 4
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 4
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 5
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 5
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 6
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 6
+[14-Feb-2011 17:10:07] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 8
+[14-Feb-2011 17:15:20] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 7
+[14-Feb-2011 17:15:31] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 7
+[14-Feb-2011 17:15:58] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 7
+[14-Feb-2011 17:16:04] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/jwxiccco/public_html/processing/addingnewsitem.php on line 7
+[15-Feb-2011 18:03:06] PHP Parse error:  syntax error, unexpected '}' in /home/jwxiccco/public_html/processing/editinginnings.php on line 7
+[15-Feb-2011 18:04:31] PHP Parse error:  syntax error, unexpected T_ELSE in /home/jwxiccco/public_html/processing/editinginnings.php on line 13
+[15-Feb-2011 18:06:01] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 18:07:12] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 18:08:29] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 18:09:27] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 18:10:14] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 18:11:16] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 18:11:24] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Feb-2011 22:57:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addinginnings.php on line 7
+[15-Feb-2011 22:57:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addinginnings.php on line 7
+[15-Feb-2011 22:57:35] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addinginnings.php on line 15
+[15-Feb-2011 22:57:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/addinginnings.php on line 18
+[15-Feb-2011 22:57:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/addinginnings.php on line 18
+[17-Feb-2011 18:43:19] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[17-Feb-2011 19:06:49] PHP Fatal error:  Call to undefined function  is_set() in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 3
+[17-Feb-2011 19:07:33] PHP Fatal error:  Call to undefined function  is_set() in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 5
+[17-Feb-2011 19:10:48] PHP Notice:  Use of undefined constant length - assumed 'length' in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 8
+[23-Feb-2011 03:30:21] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[23-Feb-2011 03:30:25] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[03-Mar-2011 17:43:01] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[03-Mar-2011 17:43:11] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[21-Mar-2011 06:47:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingteamground.php on line 8
+[21-Mar-2011 06:47:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/addingteamground.php on line 11
+[10-Aug-2011 23:55:32] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[10-Aug-2011 23:55:49] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[08-Sep-2011 21:41:37] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jwxiccco/public_html/processing/editingjwxiplayerinfo.php on line 9
+[02-Oct-2011 20:46:27] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[02-Oct-2011 20:47:31] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[02-Oct-2011 20:47:51] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Oct-2011 21:39:07] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Oct-2011 21:39:16] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[15-Oct-2011 21:39:29] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[01-Jan-2012 17:49:42] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[01-Jan-2012 17:49:54] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/jwxiccco/public_html/processing/editinginnings.php on line 23
+[02-Jan-2012 02:18:37] PHP Notice:  Undefined index:  runss394 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss396 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss393 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss397 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss395 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss399 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss398 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss401 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss402 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss403 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss404 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss23 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss21 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss24 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss30 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss31 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss32 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 02:18:38] PHP Notice:  Undefined index:  runss39 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss394 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss396 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss393 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss397 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss395 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss399 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss398 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss401 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss402 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss403 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss404 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss23 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss21 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss24 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss30 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss31 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss32 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:25:29] PHP Notice:  Undefined index:  runss39 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss394 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss396 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss393 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss397 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss395 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss399 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss398 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss401 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss402 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss403 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss404 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss23 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss21 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss24 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss30 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss31 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss32 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[02-Jan-2012 21:26:37] PHP Notice:  Undefined index:  runss39 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss394 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss396 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss393 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss397 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss395 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss399 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss398 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss401 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss402 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss403 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss404 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss23 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss21 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss24 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss30 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss31 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss32 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:01:54] PHP Notice:  Undefined index:  runss39 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss394 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss396 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss393 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss397 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss395 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss399 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss398 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss401 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss402 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss403 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss404 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 27
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss20 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss23 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss21 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss24 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss30 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss25 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss28 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss31 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss32 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss37 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:02:30] PHP Notice:  Undefined index:  runss39 in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 62
+[04-Jan-2012 23:06:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 45
+[05-Jan-2012 17:53:48] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 51
+[05-Jan-2012 18:03:36] PHP Parse error:  syntax error, unexpected '!', expecting '(' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 51
+[05-Jan-2012 18:48:18] PHP Parse error:  syntax error, unexpected ')' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 51
+[05-Jan-2012 18:48:38] PHP Parse error:  syntax error, unexpected ')' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 51
+[05-Jan-2012 18:55:45] PHP Parse error:  syntax error, unexpected ')' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 52
+[05-Jan-2012 18:56:13] PHP Parse error:  syntax error, unexpected ')' in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 52
+[05-Jan-2012 18:57:05] PHP Notice:  Undefined variable: runs in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 28
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:57:05] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[05-Jan-2012 18:58:01] PHP Warning:  Wrong parameter count for mysql_num_rows() in /home/jwxiccco/public_html/processing/addingmatchstats.php on line 47
+[11-Mar-2012 23:36:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[11-Mar-2012 23:36:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[11-Mar-2012 23:36:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[11-Mar-2012 23:36:13] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:13] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[11-Mar-2012 23:36:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[11-Mar-2012 23:36:40] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:40] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[11-Mar-2012 23:36:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[11-Mar-2012 23:36:51] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:51] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[11-Mar-2012 23:36:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[11-Mar-2012 23:36:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[18-Mar-2012 00:36:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:36:02] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:36:02] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:36:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[18-Mar-2012 00:36:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[18-Mar-2012 00:36:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[18-Mar-2012 00:36:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:36:10] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:36:10] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:36:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[18-Mar-2012 00:36:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[18-Mar-2012 00:36:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[18-Mar-2012 00:51:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:51:32] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:51:32] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:51:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[18-Mar-2012 00:51:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 4
+[18-Mar-2012 00:51:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[18-Mar-2012 00:55:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:55:17] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:55:17] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:55:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:55:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:55:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:56:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:56:54] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:56:54] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:56:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:56:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:56:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:57:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:57:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:57:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:57:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:57:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:57:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:57:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:57:53] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:57:53] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:57:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:57:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:57:53] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:57:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:57:59] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:57:59] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:57:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:57:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:57:59] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:59:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 8
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 00:59:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 8
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 01:00:19] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 8
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 01:00:38] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 8
+[18-Mar-2012 01:01:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 01:01:31] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:01:31] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:01:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:01:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:01:31] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 01:03:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jwxiccco_cricket'@'localhost' (using password: YES) in /home/jwxiccco/public_html/connect.php on line 2
+[18-Mar-2012 01:03:36] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:03:36] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/jwxiccco/public_html/connect.php on line 3
+[18-Mar-2012 01:03:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jwxiccco'@'localhost' (using password: NO) in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:03:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jwxiccco/public_html/processing/loggingin.php on line 6
+[18-Mar-2012 01:03:36] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/jwxiccco/public_html/processing/loggingin.php on line 7
+[18-Mar-2012 01:04:31] PHP Notice:  Undefined index:  userid in /home/jwxiccco/public_html/processing/loggingin.php on line 9
+[18-Mar-2012 01:04:31] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 10
+[18-Mar-2012 01:04:31] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 11
+[18-Mar-2012 01:04:31] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 12
+[18-Mar-2012 01:04:31] PHP Notice:  Undefined index:  name in /home/jwxiccco/public_html/processing/loggingin.php on line 16
+[18-Mar-2012 02:42:34] PHP Notice:  Undefined index:  userid in /home/jwxiccco/public_html/processing/loggingin.php on line 9
+[18-Mar-2012 02:42:34] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 10
+[18-Mar-2012 02:42:34] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 11
+[18-Mar-2012 02:42:34] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 12
+[18-Mar-2012 02:42:34] PHP Notice:  Undefined index:  name in /home/jwxiccco/public_html/processing/loggingin.php on line 16
+[18-Mar-2012 02:42:43] PHP Notice:  Undefined index:  userid in /home/jwxiccco/public_html/processing/loggingin.php on line 9
+[18-Mar-2012 02:42:43] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 10
+[18-Mar-2012 02:42:43] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 11
+[18-Mar-2012 02:42:43] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 12
+[18-Mar-2012 02:42:43] PHP Notice:  Undefined index:  name in /home/jwxiccco/public_html/processing/loggingin.php on line 16
+[18-Mar-2012 03:04:15] PHP Notice:  Undefined index:  userid in /home/jwxiccco/public_html/processing/loggingin.php on line 9
+[18-Mar-2012 03:04:15] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 10
+[18-Mar-2012 03:04:15] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 11
+[18-Mar-2012 03:04:15] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 12
+[18-Mar-2012 03:04:15] PHP Notice:  Undefined index:  name in /home/jwxiccco/public_html/processing/loggingin.php on line 16
+[18-Mar-2012 03:04:34] PHP Notice:  Undefined index:  userid in /home/jwxiccco/public_html/processing/loggingin.php on line 9
+[18-Mar-2012 03:04:34] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 10
+[18-Mar-2012 03:04:34] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 11
+[18-Mar-2012 03:04:34] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 12
+[18-Mar-2012 03:04:34] PHP Notice:  Undefined index:  name in /home/jwxiccco/public_html/processing/loggingin.php on line 16
+[18-Mar-2012 03:11:31] PHP Notice:  Undefined index:  userid in /home/jwxiccco/public_html/processing/loggingin.php on line 9
+[18-Mar-2012 03:11:31] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 10
+[18-Mar-2012 03:11:31] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 11
+[18-Mar-2012 03:11:31] PHP Notice:  Undefined index:  admin in /home/jwxiccco/public_html/processing/loggingin.php on line 12
+[18-Mar-2012 03:11:31] PHP Notice:  Undefined index:  name in /home/jwxiccco/public_html/processing/loggingin.php on line 16
+[20-Mar-2012 09:00:04] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[20-Mar-2012 09:00:04] PHP Notice:  Undefined index:  password in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[30-Apr-2012 18:59:21] PHP Notice:  Undefined index:  username in /home/jwxiccco/public_html/processing/loggingin.php on line 5
+[30-Apr-2012 18:59:21] PHP Notice:  Undefined index:  password in /home/jwxiccco/public_html/processing/loggingin.php on line 5
